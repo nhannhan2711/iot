@@ -1,0 +1,10 @@
+
+Raspberry Pi	Lora – SX1278 Module
+3.3V		3.3V
+Ground		Ground
+GPIO 10		MOSI
+GPIO 9		MISO
+GPIO 11		SCK
+GPIO 8		Nss / Enable
+GPIO 4		DIO 0
+GPIO 22		RST

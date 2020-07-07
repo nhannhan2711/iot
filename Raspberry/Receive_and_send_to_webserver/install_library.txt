@@ -1,0 +1,14 @@
+you need to install all the library that need for Ras.py
+Enable SPI
+- sudo raspi-config ==> interfacing option ==> enable the SPI interface
+Save the changes and get back to the terminal window. Make sure pip and python is updated and then install the RPi.GPIO package using the following command.
+- sudo apt-get install python-pip python3-pip
+- pip install RPi.GPIO
+- pip install spidev   
+- pip install pyLoRa
+- sudo apt-get install python-rpi.gpio python3-rpi.gpio
+- sudo apt-get install python-spidev python3-spidev
+
+Install Paho
+- pip3 install paho-mqtt
+- pip install paho-mqtt
